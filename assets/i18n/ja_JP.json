@@ -1,3 +1,6 @@
 {
-  "language": "日本語"
+  "language": "日本語",
+  "action": {
+    "search": "検索"
+  }
 }
