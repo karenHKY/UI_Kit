@@ -2,5 +2,14 @@
   "language": "English",
   "action": {
     "search": "Search"
+  },
+  "error": {
+    "required": {
+      "hour-checkbox": "Please select a hour"
+    }
+  },
+  "time": {
+    "to": "to",
+    "total-day": "{{ count }} day(s) in total"
   }
 }

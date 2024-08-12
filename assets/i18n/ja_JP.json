@@ -2,5 +2,14 @@
   "language": "日本語",
   "action": {
     "search": "検索"
+  },
+  "error": {
+    "required": {
+      "hour-checkbox": "時間を選択してください"
+    }
+  },
+  "time": {
+    "to": "に",
+    "total-day": "合計 {{ count }} 日"
   }
 }

@@ -2,5 +2,14 @@
   "language": "繁體中文",
   "action": {
     "search": "搜尋"
+  },
+  "error": {
+    "required": {
+      "hour-checkbox": "請選擇時間"
+    }
+  },
+  "time": {
+    "to": "至",
+    "total-day": "共 {{ count }} 日"
   }
 }
