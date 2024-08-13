@@ -9,7 +9,6 @@
     }
   },
   "time": {
-    "to": "に",
     "total-day": "合計 {{ count }} 日"
   }
 }

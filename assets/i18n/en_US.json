@@ -9,7 +9,6 @@
     }
   },
   "time": {
-    "to": "to",
     "total-day": "{{ count }} day(s) in total"
   }
 }
